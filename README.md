@@ -58,9 +58,9 @@ If there is no problem, then you’ll have your own time zone. The file will be 
 ### Usage manual
 
 ```
-git clone https://github.com/ahidnaeimi/Linux_TZTehran2022.git
+git clone https://github.com/ahidnaeimi/LinuxCustomTimeZone.git
 
-cd Linux_TZTehran2022
+cd LinuxCustomTimeZone
 
 zic TehranZone -d .
 
